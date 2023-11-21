@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @StarPlatnm
 - 👀 I’m interested in learning C, Python, HTML, CSS, JavaScript, TypeScript, SQL, PHP, and C++
-- 🌱 I’m currently learning C, HTML and CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C, HTML, CSS, and JavaScript
 - 📫 How to reach me ...
 
 <!---
